@@ -3,9 +3,9 @@ def main():
         try:
             num=int(input(Type an integer: ))
             break
-        except ValueError
+        except ValueError:
         print("error")
-        
+
     # Replace pass with your Python code.
     
 
