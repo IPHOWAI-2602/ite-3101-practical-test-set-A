@@ -10,7 +10,7 @@ def get_number_sequence(n: int) -> str:
 
 def main():
     try:
-        num=int(input())
+        num=int(input('Type an integer:'))
         if num < 0 :
             print()
             exit(-1)
