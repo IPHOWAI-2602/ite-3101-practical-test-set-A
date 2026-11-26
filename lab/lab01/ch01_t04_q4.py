@@ -14,7 +14,10 @@ def main():
         a=float(input("side a:"))
         b=float(input("side b:"))
         c=float(input("side c:"))
-   
+        
+    except ValueError:
+                   print("error")
+                   exit(-1)
     
 
 
