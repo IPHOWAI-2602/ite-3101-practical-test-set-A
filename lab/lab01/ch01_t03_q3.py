@@ -11,7 +11,7 @@ def get_number_sequence(n: int) -> str:
 def main():
     try:
         num=int(input())
-        if n < 0 :
+        if num < 0 :
             print()
             exit(-1)
             for b in range(1,)
