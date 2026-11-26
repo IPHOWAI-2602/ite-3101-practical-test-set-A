@@ -14,7 +14,8 @@ def is_right_angle(a: float, b: float, c: float) -> bool:
 def main():
     try:
         a=float(input("side a:"))
-        b=float(input("side a:"))
+        b=float(input("side b:"))
+        =float(input("side a:"))
     # Replace pass with your Python code.
     pass
 
