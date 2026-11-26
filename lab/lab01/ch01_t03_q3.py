@@ -14,8 +14,8 @@ def main():
         if num < 0 :
             print()
             exit(-1)
-            for b in range(1,)
-            print(get_number_sequence(b))
+            for b in range(1,):
+                print(get_number_sequence(b))
     # Replace pass with your Python code.
     
 
