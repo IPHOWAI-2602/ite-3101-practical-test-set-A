@@ -12,7 +12,7 @@ def main():
     try:
         num=int(input('Type an integer:'))
         if num < 0 :
-            print()
+            print(f'{num}')
             exit(-1)
             for b in range(1,num+1):
                 print(get_number_sequence(b))
