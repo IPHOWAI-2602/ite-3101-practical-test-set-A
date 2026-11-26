@@ -9,7 +9,7 @@ def main():
             print("error")
 
             area=upper_length+lower_length*h
-            print(f'{area}')
+            print(f'The area of the trapezoid is {area}')
     # Replace pass with your Python code.
     
 
