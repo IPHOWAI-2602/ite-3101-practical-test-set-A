@@ -2,7 +2,7 @@ def main():
     while true:
         try:
             upper_length=float(input(Enter upper length: ))
-            upper_length=float(input(Enter upper length: ))
+            lower_length=float(input(Enter upper length: ))
     # Replace pass with your Python code.
     
 
