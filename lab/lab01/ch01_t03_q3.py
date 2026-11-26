@@ -10,6 +10,9 @@ def main():
     try:
         num=int(input())
         if n < 0 :
+            print()
+            exit(-1)
+            
     # Replace pass with your Python code.
     
 
