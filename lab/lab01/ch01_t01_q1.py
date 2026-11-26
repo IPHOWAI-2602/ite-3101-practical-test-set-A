@@ -7,7 +7,7 @@ def main():
             print("error")
     if num * 3 ==0 and num % 5!=0:
         print(f'{num}is divisible by both 3 and 5')
-else:
+    else:
         print(f'{num}is not divisible by both 3 and 5')
 
     
