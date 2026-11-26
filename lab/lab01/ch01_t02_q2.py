@@ -8,7 +8,7 @@ def main():
         except ValueError:
             print("error")
 
-            upper_length+lower_length*h=
+            upper_length+lower_length*h=area:
     # Replace pass with your Python code.
     
 
