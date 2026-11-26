@@ -2,7 +2,9 @@ def main():
     while true:
         try:
             num=int(input(Type an integer: ))
-            
+            break
+        except ValueError
+        print("")
     # Replace pass with your Python code.
     
 
