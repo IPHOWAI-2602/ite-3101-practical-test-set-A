@@ -13,7 +13,7 @@ def is_right_angle(a: float, b: float, c: float) -> bool:
 
 def main():
     try:
-        a=int
+        a=float(input())
     # Replace pass with your Python code.
     pass
 
