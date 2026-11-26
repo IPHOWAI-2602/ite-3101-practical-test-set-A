@@ -16,7 +16,8 @@ def main():
         c=float(input("side c:"))
     except ValueError:
                    print("error")
-
+        triangle=a**2+B**2
+        print(f'The triangle is a right-angle triangle{triangle}')
               
     
 
