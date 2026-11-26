@@ -7,8 +7,8 @@ def main():
             break
         except ValueError:
             print("error")
-            continue
-        
+            exit(-1)
+
         area=upper_length+lower_length*h
         print(f'The area of the trapezoid is {area}')
     # Replace pass with your Python code.
