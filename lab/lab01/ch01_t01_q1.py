@@ -4,7 +4,7 @@ def main():
             num=int(input("Type an integer:"))
             break
         except ValueError:
-            print("error")
+            print("Please enter an integer.")
     if num % 3 ==0 and num % 5==0:
         print(f'{num}is not divisible by both 3 and 5.\n')
     else:
