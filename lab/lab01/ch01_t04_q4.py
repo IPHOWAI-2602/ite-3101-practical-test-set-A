@@ -5,9 +5,7 @@ def is_right_angle(a: float, b: float, c: float) -> bool:
                 result+str(a)
                 return result
                     exit(-1)
-        # Add your Python code.
-            
-    # Replace pass with your Python code.
+      
     
 
 
