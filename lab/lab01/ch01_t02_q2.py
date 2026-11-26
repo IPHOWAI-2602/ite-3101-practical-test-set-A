@@ -9,7 +9,7 @@ def main():
             print("error")
 
             area=upper_length+lower_length*h
-            print(f'')
+            print(f'{}')
     # Replace pass with your Python code.
     
 
