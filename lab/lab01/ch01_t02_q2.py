@@ -7,7 +7,8 @@ def main():
             break
         except ValueError:
             print("error")
-            
+
+            upper_length+
     # Replace pass with your Python code.
     
 
