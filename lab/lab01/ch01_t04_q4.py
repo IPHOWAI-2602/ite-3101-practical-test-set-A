@@ -15,7 +15,7 @@ def main():
     try:
         a=float(input("side a:"))
         b=float(input("side b:"))
-        c=float(input("side a:"))
+        c=float(input("side c:"))
     # Replace pass with your Python code.
     pass
 
