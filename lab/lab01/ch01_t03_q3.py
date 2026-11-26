@@ -13,7 +13,7 @@ def main():
             print()
             exit(-1)
             for b in range(1,)
-            print()
+            print(get_number_sequence(b))
     # Replace pass with your Python code.
     
 
