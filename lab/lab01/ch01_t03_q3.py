@@ -1,6 +1,7 @@
 def get_number_sequence(n: int) -> str:
     result = ""
     if n >0
+    for 
     # Add your Python code.
     return result
 
