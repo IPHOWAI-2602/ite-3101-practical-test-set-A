@@ -1,11 +1,14 @@
 def main():
     while true:
         try:
-            num=int(input(Type an integer: ))
+            num=int(input("Type an integer:"))
             break
         except ValueError:
             print("error")
-    num % 3 =0 and num%
+    num % 3 =0 and num % 5!=0
+        print(f'{num}is divisible by both 3 and 5')
+    else
+        print(f'{num}is not divisible by both 3 and 5')
 
     # Replace pass with your Python code.
     
