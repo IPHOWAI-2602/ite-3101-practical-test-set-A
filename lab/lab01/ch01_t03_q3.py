@@ -16,6 +16,7 @@ def main():
             exit(-1)
             for b in range(1,):
                 print(get_number_sequence(b))
+                exit(-1)
     # Replace pass with your Python code.
     
 
