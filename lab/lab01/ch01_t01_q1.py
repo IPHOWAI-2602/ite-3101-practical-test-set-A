@@ -5,7 +5,7 @@ def main():
             break
         except ValueError:
             print("error")
-    num
+    num % 3 =0 and 
 
     # Replace pass with your Python code.
     
