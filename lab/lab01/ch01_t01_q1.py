@@ -1,6 +1,7 @@
 def main():
     while true:
-        try
+        try:
+            
     # Replace pass with your Python code.
     
 
