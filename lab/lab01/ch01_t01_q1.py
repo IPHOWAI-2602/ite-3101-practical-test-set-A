@@ -1,5 +1,5 @@
 def main():
-    while true:
+    while True:
         try:
             num=int(input("Type an integer:"))
             break
