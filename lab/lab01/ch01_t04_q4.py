@@ -14,8 +14,8 @@ def main():
         a=float(input("side a:"))
         b=float(input("side b:"))
         c=float(input("side c:"))
-    # Replace pass with your Python code.
-    pass
+   
+    
 
 
 if __name__ == "__main__":
