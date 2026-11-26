@@ -4,7 +4,8 @@ def get_number_sequence(n: int) -> str:
         for a in range(1,n+1):
             result+str(a)
     # Add your Python code.
-    return result
+        return result
+    exit(-1)
 
 
 def main():
