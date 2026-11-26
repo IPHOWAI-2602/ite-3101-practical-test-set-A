@@ -2,6 +2,7 @@ def main():
     while true:
         try:
             num=int(input(Type an integer: ))
+            
     # Replace pass with your Python code.
     
 
