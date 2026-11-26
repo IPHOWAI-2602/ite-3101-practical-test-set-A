@@ -9,7 +9,7 @@ def get_number_sequence(n: int) -> str:
 def main():
     try:
         num=int(input())
-        
+        if n < 0 :
     # Replace pass with your Python code.
     
 
