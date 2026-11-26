@@ -6,7 +6,8 @@ def main():
             h=float(input("Enter height:"))
             break
         except ValueError:
-        print("error")
+            print("error")
+            
     # Replace pass with your Python code.
     
 
